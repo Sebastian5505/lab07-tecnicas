@@ -55,5 +55,6 @@ Se agregaron los siguientes casos:
 - CP-09: Contraseña vacía.
 - CP-10: Correo con formato inválido, sin @.
 - CP-11: Contraseña con espacios.
+```
+ [Bitacora de tecnicas avanzadas](prompts/BITACORA.md)
 
-- [Bitacora de tecnicas avanzadas](prompts/BITACORA.md)
